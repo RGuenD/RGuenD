@@ -1,5 +1,5 @@
 
-## Hi I am Rahma!<br><br><br><h2>👩🏽‍💻About me</h2><br>Third-year Bachelor's student in Computer Systems Engineering, specializing in IoT (Internet of Things).</br><br><h2>🌱I am currently learning:</h2><br>IoT Architecture, exploring connected devices, communication protocols, and cloud integration to build smarter systems.</br><br>
+## Hi I am Rahma!<br><br><br><h2>👩🏽‍💻About me</h2><br>Computer Systems Engineering graduate, specializing in IoT (Internet of Things).</br><br><h2>🌱I am currently learning:</h2><br>IoT Architecture, exploring connected devices, communication protocols, and cloud integration to build smarter systems.</br><br>
 
 
 # 💻 Tech Stack:
